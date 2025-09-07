@@ -1,2 +1,0 @@
-print("Funcionalidad login")
-
